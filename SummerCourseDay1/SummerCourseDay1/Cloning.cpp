@@ -1,6 +1,4 @@
 #include"Cloning.h"
-
-
 struct random* cloneLinkedList(struct random* head)
 {
 	struct random* clonehead = NULL, *clonetemp;
